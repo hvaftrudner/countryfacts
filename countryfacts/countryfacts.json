@@ -1,0 +1,19 @@
+
+{
+    "results": [
+        {
+            "title": "Sweden",
+            "capital": "Stockholm",
+            "currency": "Kronor",
+            "population": 10.000.000,
+            
+        },
+        {
+            "title": "Norway",
+            "capital": "Oslo",
+            "currency": "Kroner",
+            "population": 5.000.000,
+        }
+    ]
+}
+
